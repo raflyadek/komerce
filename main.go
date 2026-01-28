@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	// sortCharacters()
+	sortCharacters()
 	psbb()
 }
 
